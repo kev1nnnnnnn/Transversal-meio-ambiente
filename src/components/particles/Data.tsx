@@ -191,5 +191,5 @@ export const FooterTexts = {
             }
         ]
     },
-    copyright: "Copyright 2023. All Right Reserved"
+    copyright: "Copyright 2024. Todos os direitos reservados"
 }
